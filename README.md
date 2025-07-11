@@ -140,13 +140,6 @@ The following tasks will run automatically:
 
 ---
 
-### 👍🏼 Results
-
-All findings, visualizations, and the interactive dashboard are generated inside the notebook.
-Exported files are saved to your local directory.
-
----
-
 ## 📈 Results & Performance
 
 ### 🏆 Key Findings
